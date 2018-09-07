@@ -1,0 +1,17 @@
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\ReverseMap\resources.pri
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\AppxManifest.xml
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\Online_Folio.build.appxrecipe
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\Online_Folio.jsproj.CoreCompileInputs.cache
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\ResourceHandlingTask.state
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\priconfig.xml
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\priconfig.xml.intermediate
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\layout.resfiles
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\layout.resfiles.intermediate
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\resources.resfiles
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\resources.resfiles.intermediate
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\pri.resfiles
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\pri.resfiles.intermediate
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\qualifiers.txt
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\qualifiers.txt.intermediate
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\ProjectArchitectures.txt

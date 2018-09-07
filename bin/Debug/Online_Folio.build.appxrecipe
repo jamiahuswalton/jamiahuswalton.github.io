@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-CA4MQF9</Machine>
+    <WindowsUser>jamia</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>affd371e-5f6e-41ba-bfa2-19cb59f58dc0</PackageIdentityName>
+    <PackageIdentityPublisher>CN=jamia</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-grid.css">
+      <PackagePath>Content\bootstrap-grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-grid.min.css">
+      <PackagePath>Content\bootstrap-grid.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-reboot.css">
+      <PackagePath>Content\bootstrap-reboot.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-reboot.min.css">
+      <PackagePath>Content\bootstrap-reboot.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap.css">
+      <PackagePath>Content\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap.min.css">
+      <PackagePath>Content\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-grid.css">
+      <PackagePath>css\bootstrap-grid.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-grid.min.css">
+      <PackagePath>css\bootstrap-grid.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-reboot.css">
+      <PackagePath>css\bootstrap-reboot.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-reboot.min.css">
+      <PackagePath>css\bootstrap-reboot.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap.min.css">
+      <PackagePath>css\bootstrap.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-grid.css.map">
+      <PackagePath>Content\bootstrap-grid.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-grid.min.css.map">
+      <PackagePath>Content\bootstrap-grid.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-reboot.css.map">
+      <PackagePath>Content\bootstrap-reboot.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap-reboot.min.css.map">
+      <PackagePath>Content\bootstrap-reboot.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap.css.map">
+      <PackagePath>Content\bootstrap.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Content\bootstrap.min.css.map">
+      <PackagePath>Content\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-grid.css.map">
+      <PackagePath>css\bootstrap-grid.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-grid.min.css.map">
+      <PackagePath>css\bootstrap-grid.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-reboot.css.map">
+      <PackagePath>css\bootstrap-reboot.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap-reboot.min.css.map">
+      <PackagePath>css\bootstrap-reboot.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap.css.map">
+      <PackagePath>css\bootstrap.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\bootstrap.min.css.map">
+      <PackagePath>css\bootstrap.min.css.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.bundle.js.map">
+      <PackagePath>js\bootstrap.bundle.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.bundle.min.js.map">
+      <PackagePath>js\bootstrap.bundle.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.js.map">
+      <PackagePath>js\bootstrap.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.min.js.map">
+      <PackagePath>js\bootstrap.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.bundle.js.map">
+      <PackagePath>Scripts\bootstrap.bundle.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.bundle.min.js.map">
+      <PackagePath>Scripts\bootstrap.bundle.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.js.map">
+      <PackagePath>Scripts\bootstrap.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.min.js.map">
+      <PackagePath>Scripts\bootstrap.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper-utils.js.map">
+      <PackagePath>Scripts\esm\popper-utils.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper-utils.min.js.map">
+      <PackagePath>Scripts\esm\popper-utils.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper.js.map">
+      <PackagePath>Scripts\esm\popper.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper.min.js.map">
+      <PackagePath>Scripts\esm\popper.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.min.map">
+      <PackagePath>Scripts\jquery-3.0.0.min.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.slim.min.map">
+      <PackagePath>Scripts\jquery-3.0.0.slim.min.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper-utils.js.map">
+      <PackagePath>Scripts\popper-utils.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper-utils.min.js.map">
+      <PackagePath>Scripts\popper-utils.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper.js.map">
+      <PackagePath>Scripts\popper.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper.min.js.map">
+      <PackagePath>Scripts\popper.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper-utils.js.map">
+      <PackagePath>Scripts\umd\popper-utils.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper-utils.min.js.map">
+      <PackagePath>Scripts\umd\popper-utils.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper.js.map">
+      <PackagePath>Scripts\umd\popper.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper.min.js.map">
+      <PackagePath>Scripts\umd\popper.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\css\.DS_Store">
+      <PackagePath>css\.DS_Store</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\index.html">
+      <PackagePath>index.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.bundle.js">
+      <PackagePath>js\bootstrap.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.bundle.min.js">
+      <PackagePath>js\bootstrap.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\bootstrap.min.js">
+      <PackagePath>js\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\js\main.js">
+      <PackagePath>js\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.bundle.js">
+      <PackagePath>Scripts\bootstrap.bundle.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.bundle.min.js">
+      <PackagePath>Scripts\bootstrap.bundle.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.js">
+      <PackagePath>Scripts\bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\bootstrap.min.js">
+      <PackagePath>Scripts\bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper-utils.js">
+      <PackagePath>Scripts\esm\popper-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper-utils.min.js">
+      <PackagePath>Scripts\esm\popper-utils.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper.js">
+      <PackagePath>Scripts\esm\popper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\esm\popper.min.js">
+      <PackagePath>Scripts\esm\popper.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0-vsdoc.js">
+      <PackagePath>Scripts\jquery-3.0.0-vsdoc.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.js">
+      <PackagePath>Scripts\jquery-3.0.0.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.min.js">
+      <PackagePath>Scripts\jquery-3.0.0.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.slim.js">
+      <PackagePath>Scripts\jquery-3.0.0.slim.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\jquery-3.0.0.slim.min.js">
+      <PackagePath>Scripts\jquery-3.0.0.slim.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper-utils.js">
+      <PackagePath>Scripts\popper-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper-utils.min.js">
+      <PackagePath>Scripts\popper-utils.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper.js">
+      <PackagePath>Scripts\popper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\popper.min.js">
+      <PackagePath>Scripts\popper.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper-utils.js">
+      <PackagePath>Scripts\umd\popper-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper-utils.min.js">
+      <PackagePath>Scripts\umd\popper-utils.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper.js">
+      <PackagePath>Scripts\umd\popper.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\umd\popper.min.js">
+      <PackagePath>Scripts\umd\popper.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\index.d.ts">
+      <PackagePath>Scripts\index.d.ts</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\Scripts\README.md">
+      <PackagePath>Scripts\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jamia\Documents\GitHub\Online_Folio\Online_Folio\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
