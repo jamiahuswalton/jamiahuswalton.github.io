@@ -3,9 +3,42 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{95EF2EBE-795F-4E67-ABE3-358627775C43}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		publications.html = publications.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{35C2E777-701C-4AD4-87D7-39DC9E1E04F9}"
+	ProjectSection(SolutionItems) = preProject
+		css\default.css = css\default.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{97A7560C-B753-49EC-AA80-1E9E659A9838}"
+	ProjectSection(SolutionItems) = preProject
+		js\main.js = js\main.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{D5C23CA6-792B-4600-B1A2-E6056DE7C04C}"
+	ProjectSection(SolutionItems) = preProject
+		img\head_shot.jpg = img\head_shot.jpg
+		img\LockScreenLogo.scale-200.png = img\LockScreenLogo.scale-200.png
+		img\SplashScreen.scale-200.png = img\SplashScreen.scale-200.png
+		img\Square150x150Logo.scale-200.png = img\Square150x150Logo.scale-200.png
+		img\Square44x44Logo.scale-200.png = img\Square44x44Logo.scale-200.png
+		img\Square44x44Logo.targetsize-24_altform-unplated.png = img\Square44x44Logo.targetsize-24_altform-unplated.png
+		img\StoreLogo.png = img\StoreLogo.png
+		img\Wide310x150Logo.scale-200.png = img\Wide310x150Logo.scale-200.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35C2E777-701C-4AD4-87D7-39DC9E1E04F9} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
+		{97A7560C-B753-49EC-AA80-1E9E659A9838} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
+		{D5C23CA6-792B-4600-B1A2-E6056DE7C04C} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC0BDEA7-4D45-42DE-9BE6-1F4139364A5B}
