@@ -31,6 +31,29 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{D5C23CA6-792
 		img\Wide310x150Logo.scale-200.png = img\Wide310x150Logo.scale-200.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub-Logos", "GitHub-Logos", "{4EDE0D26-95A1-40F2-B809-15BB32057AA0}"
+	ProjectSection(SolutionItems) = preProject
+		img\GitHub-Logos\GitHub_Logo.ai = img\GitHub-Logos\GitHub_Logo.ai
+		img\GitHub-Logos\GitHub_Logo.eps = img\GitHub-Logos\GitHub_Logo.eps
+		img\GitHub-Logos\GitHub_Logo.png = img\GitHub-Logos\GitHub_Logo.png
+		img\GitHub-Logos\GitHub_Logo.psd = img\GitHub-Logos\GitHub_Logo.psd
+		img\GitHub-Logos\GitHub_Logo_White.png = img\GitHub-Logos\GitHub_Logo_White.png
+		img\GitHub-Logos\GitHub_Logo_White.psd = img\GitHub-Logos\GitHub_Logo_White.psd
+		img\GitHub-Logos\README.txt = img\GitHub-Logos\README.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GitHub-Mark", "GitHub-Mark", "{7186FBA9-3469-4653-82BA-1A85068030BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PNG", "PNG", "{32603864-A45E-4813-A30B-9CA9B0467BB0}"
+	ProjectSection(SolutionItems) = preProject
+		img\GitHub-Mark\PNG\GitHub-Mark-120px-plus.png = img\GitHub-Mark\PNG\GitHub-Mark-120px-plus.png
+		img\GitHub-Mark\PNG\GitHub-Mark-32px.png = img\GitHub-Mark\PNG\GitHub-Mark-32px.png
+		img\GitHub-Mark\PNG\GitHub-Mark-64px.png = img\GitHub-Mark\PNG\GitHub-Mark-64px.png
+		img\GitHub-Mark\PNG\GitHub-Mark-Light-120px-plus.png = img\GitHub-Mark\PNG\GitHub-Mark-Light-120px-plus.png
+		img\GitHub-Mark\PNG\GitHub-Mark-Light-32px.png = img\GitHub-Mark\PNG\GitHub-Mark-Light-32px.png
+		img\GitHub-Mark\PNG\GitHub-Mark-Light-64px.png = img\GitHub-Mark\PNG\GitHub-Mark-Light-64px.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +62,9 @@ Global
 		{35C2E777-701C-4AD4-87D7-39DC9E1E04F9} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
 		{97A7560C-B753-49EC-AA80-1E9E659A9838} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
 		{D5C23CA6-792B-4600-B1A2-E6056DE7C04C} = {95EF2EBE-795F-4E67-ABE3-358627775C43}
+		{4EDE0D26-95A1-40F2-B809-15BB32057AA0} = {D5C23CA6-792B-4600-B1A2-E6056DE7C04C}
+		{7186FBA9-3469-4653-82BA-1A85068030BA} = {D5C23CA6-792B-4600-B1A2-E6056DE7C04C}
+		{32603864-A45E-4813-A30B-9CA9B0467BB0} = {7186FBA9-3469-4653-82BA-1A85068030BA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BC0BDEA7-4D45-42DE-9BE6-1F4139364A5B}
