@@ -8,7 +8,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{95EF2EBE-7
 		index.html = index.html
 		People.html = People.html
 		publications.html = publications.html
-		..\..\Downloads\test.png = ..\..\Downloads\test.png
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{35C2E777-701C-4AD4-87D7-39DC9E1E04F9}"
