@@ -1,13 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Root", "Root", "{95EF2EBE-795F-4E67-ABE3-358627775C43}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
 		People.html = People.html
-		publications.html = publications.html
+		Research.html = Research.html
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{35C2E777-701C-4AD4-87D7-39DC9E1E04F9}"
