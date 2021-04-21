@@ -24,6 +24,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{D5C23CA6-792
 	ProjectSection(SolutionItems) = preProject
 		img\head_shot.jpg = img\head_shot.jpg
 		img\LockScreenLogo.scale-200.png = img\LockScreenLogo.scale-200.png
+		img\Maya.png = img\Maya.png
 		img\SplashScreen.scale-200.png = img\SplashScreen.scale-200.png
 		img\Square150x150Logo.scale-200.png = img\Square150x150Logo.scale-200.png
 		img\Square44x44Logo.scale-200.png = img\Square44x44Logo.scale-200.png
